@@ -1,6 +1,5 @@
 
-![Index](https://github.com/Foxyfox09/H24_V11_INSPIRATIONS_MONTPETIT/assets/143674882/816f81a3-cd4f-4f21-b28a-1e61c2374505)
-![potos_devant_J S_2024](https://github.com/Foxyfox09/H24_V11_INSPIRATIONS_MONTPETIT/assets/143674882/712bad30-db3d-41ae-9966-bfb464f2a954)
+![Index](https://github.com/Foxyfox09/H24_V11_INSPIRATIONS_MONTPETIT/assets/143674882/816f81a3-cd4f-4f21-b28a-1e61c2374505)![potos_devant_J S_2024](https://github.com/Foxyfox09/H24_V11_INSPIRATIONS_MONTPETIT/assets/143674882/712bad30-db3d-41ae-9966-bfb464f2a954)
 
 ![Pancarte_presentatrice_J S_2024](https://github.com/Foxyfox09/H24_V11_INSPIRATIONS_MONTPETIT/assets/143674882/45479000-cbc8-4487-ba61-ecf9954996b7)
 
