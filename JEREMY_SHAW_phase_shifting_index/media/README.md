@@ -28,3 +28,6 @@
 ![Gens qui regardent](https://github.com/Foxyfox09/H24_V11_INSPIRATIONS_MONTPETIT/assets/143674882/ec8db9ee-6556-4b1f-9fcf-46da5f58aa81)
 
 ![Lumières plafond](https://github.com/Foxyfox09/H24_V11_INSPIRATIONS_MONTPETIT/assets/143674882/a3c2648c-f449-42d5-aa36-95d95002ab25)
+
+![potos_devant_J S_2024](https://github.com/Foxyfox09/H24_V11_INSPIRATIONS_MONTPETIT/assets/143674882/712bad30-db3d-41ae-9966-bfb464f2a954)
+
