@@ -42,3 +42,8 @@ mais j'aurais quand même raccourci le moment au début où ils dansent tous de 
 l'action, mais appart ça, j'ai bien apprécié cette oeuvre multimédia de Jeremy Shaw.
 
 ![photo](media/Ecran_danseurs_J.S_2024.png)
+
+<h3>Sources</h3>
+
+- Fonderie Darling, Phase Shifting Index
+- https://macm.org/en/exhibitions/jeremy-shaw/ (site internet du site)
