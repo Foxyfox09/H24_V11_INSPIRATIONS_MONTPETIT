@@ -41,4 +41,4 @@ Malgré que j'ai trouvé cela assez simple, j'ai bien aimé mon expérience, ça
 mais j'aurais quand même raccourci le moment au début où ils dansent tous de façon différente, j'ai trouvé ce moment un peu trop long avant que l'on entre réellement dans
 l'action, mais appart ça, j'ai bien apprécié cette oeuvre multimédia de Jeremy Shaw.
 
-![photo](media/Ecrans_danseurs_J.S_2024.png)
+![photo](media/Ecran_danseurs_J.S_2024.png)
