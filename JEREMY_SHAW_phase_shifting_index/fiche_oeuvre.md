@@ -46,4 +46,4 @@ l'action, mais appart ça, j'ai bien apprécié cette oeuvre multimédia de Jere
 <h3>Sources</h3>
 
 - Fonderie Darling, Phase Shifting Index
-- https://macm.org/en/exhibitions/jeremy-shaw/ (site internet du site)
+- https://macm.org/en/exhibitions/jeremy-shaw/ (site internet de l'exposition)
