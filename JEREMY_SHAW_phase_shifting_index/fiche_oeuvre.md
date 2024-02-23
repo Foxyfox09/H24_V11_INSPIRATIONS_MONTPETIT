@@ -23,3 +23,22 @@ un peu partout, près de chaque écrans, afin de vraiment isoler chaque petit î
 
 ![photo](media/Projecteur_J.S_2024.png)
 ![photo](media/Ecrans_psychedelique_J.S_2024.png)
+
+<h2>mon exprérience</h2>
+Au tout début quand je suis entré dans la pièce, il y avait plusieurs écrans avec des gens qui dansaient de différentes façons, je ne savais pas trop
+à quoi m'attendre, je me suis même quasiment endormi à un moment, puis, d'un coup ils se sont tous mis à danser de la même façon.
+
+![photo](media/Viewers_J.S_2024.png)
+
+À ce moment là, ça m'a reveillé d'un coup, la musique qui était propre à chaque écran était désormais coordonnée partout, en observant les écrans, on a pu se 
+rendre compte que chacun de ces vidéos ont été filmé à la même époque, contrairement à ce qu'on aurait pu penser puisque chaque vidéo semblait d'une époque
+différente.
+
+![photo](media/viewers_2_J.S_2024.png)
+
+Par la suite, ils sont tous entrés dans une sorte de trans, avec du data moshing, ce qui rendait la chose assez intéressante, pour ensuite finir sur une sorte de galaxie.
+Malgré que j'ai trouvé cela assez simple, j'ai bien aimé mon expérience, ça m'a surpris positivement quand ils se sont tous mis à faire les mêmes mouvements synchronisés, 
+mais j'aurais quand même raccourci le moment au début où ils dansent tous de façon différente, j'ai trouvé ce moment un peu trop long avant que l'on entre réellement dans
+l'action, mais appart ça, j'ai bien apprécié cette oeuvre multimédia de Jeremy Shaw.
+
+![photo](media/Ecrans_danseurs_J.S_2024.png)
