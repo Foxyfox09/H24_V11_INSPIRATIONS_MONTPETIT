@@ -16,3 +16,8 @@ les cables ont été placés d'une manière à ce qu'ils ne soient pratiquement 
 
 ![photo](media/Cables_gestion_J.S_2024.png)
 
+Les projecteurs étaient placés en hauteur afin d'empêcher de cacher l'écran si quelqu'un passait devant, les hauts parleurs étaient quant à eux placés
+un peu partout, près de chaque écrans, afin de vraiment isoler chaque petit îlot avec leur propre son, ce qui permet une meilleure immersion.
+
+![photo](media/Projecteur_J.S_2024.png)
+![photo](media/Ecrans_psychedelique_J.S_2024.png)
