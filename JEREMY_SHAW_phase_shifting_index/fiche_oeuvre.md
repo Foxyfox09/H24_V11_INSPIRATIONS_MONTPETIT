@@ -9,3 +9,5 @@ Nous avons visités cette exposition, originalement créée en 2020, le vendredi
 Afin de mettre en place cette exposition ils ont eu besoin de projecteurs, toiles afin d'y projetter les vidéos, des hauts parleurs
 pour le son, ainsi que de grandes lumières de différentes couleurs pour pouvoir donner un effet psychédélique à la fin de 
 l'exposition.
+
+<h2>Disposition</h2>
