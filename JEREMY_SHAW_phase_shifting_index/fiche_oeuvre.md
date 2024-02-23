@@ -34,7 +34,7 @@ Au tout début quand je suis entré dans la pièce, il y avait plusieurs écrans
 rendre compte que chacun de ces vidéos ont été filmé à la même époque, contrairement à ce qu'on aurait pu penser puisque chaque vidéo semblait d'une époque
 différente.
 
-![photo](media/viewers_2_J.S_2024.png)
+![photo](media/Viewers_2_J.S_2024.png)
 
 Par la suite, ils sont tous entrés dans une sorte de trans, avec du data moshing, ce qui rendait la chose assez intéressante, pour ensuite finir sur une sorte de galaxie.
 Malgré que j'ai trouvé cela assez simple, j'ai bien aimé mon expérience, ça m'a surpris positivement quand ils se sont tous mis à faire les mêmes mouvements synchronisés, 
