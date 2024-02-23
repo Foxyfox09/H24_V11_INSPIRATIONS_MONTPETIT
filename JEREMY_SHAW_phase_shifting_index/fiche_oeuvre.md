@@ -1,5 +1,5 @@
 ![photo](media/potos_devant_J.S_2024.png)
-<h1>Jeremy Shaw phase shifting</h1>
+<h1>Jeremy Shaw phase shifting index</h1>
 <h2>Fonderie Darling</h2>
 
 ![photo](media/Affiche_pre-presentation_J.S_2024.png)
