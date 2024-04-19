@@ -6,7 +6,7 @@ La conférence portait sur les défis à relever et la pertinence que ce travail
 que ces travailleurs pouvaient avoir, ainsi que connaître à quel point une oeuvre pourrait plaire à un publique <br> et savoir l'adapter à de nouveaux lieux d'expositions
 
 <h2>les défis</h2>
-<p align=center>Ce que Jade nous a expliqué au niveau des défis qu'ils ont dû surmonter sont souvemt dû aux environnements, tel que la chaleur du désert ou bien
+<p align=center>Ce que Jade nous a expliqué au niveau des défis qu'ils ont dû surmonter sont souvent dû aux environnements, tel que la chaleur du désert ou bien
 encore les tempêtes de pluie ou même de sable. Le transport était également un grand facteur à garder en compte, puisqu'il fallait qu'ils prévoient
 les choses qu'ils allaient avoir besoin, le matériel supplémentaire si il y en avait. Ils devaient également remplir des fiches afin de laisser savoir
 ce qu'il y allait avoir dans le colis aux gens qui allaient le recevoir, sans quoi, ils pouvaient être blamé d'avoir oublié certaines composantes.
