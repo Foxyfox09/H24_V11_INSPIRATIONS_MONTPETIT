@@ -6,12 +6,12 @@ La conférence portait sur les défis à relever et la pertinence que ce travail
 que ces travailleurs pouvaient avoir, ainsi que connaître à quel point une oeuvre pourrait plaire à un publique <br> et savoir l'adapter à de nouveaux lieux d'expositions
 
 <h2>les défis</h2>
-<p align=center>Ce que Jade nous a expliqué au niveau des défis qu'ils ont dû surmonter sont souvemt dû aux environnements, tel que la chaleur du désert ou bien <br>
-encore les tempêtes de pluie ou même de sable. Le transport était également un grand facteur à garder en compte, puisqu'il fallait qu'ils prévoient <br>
-les choses qu'ils allaient avoir besoin, le matériel supplémentaire si il y en avait. Ils devaient également remplir des fiches afin de laisser savoir <br>
-ce qu'il y allait avoir dans le colis aux gens qui allaient le recevoir, sans quoi, ils pouvaient être blamé d'avoir oublié certaines composantes. <br>
-Si le matériel venait à être endommagé pendant le trajet, ils pouvaient également prendre le blâme, c'est pourquoi ils doivent toujours prendre une <br>
-photo des composantes avant de les envoyer, c'est un moyen de se défendre contre les accusations si jamais une des composantes est cassés à l'arrivée, ils <br>
-ont donc une preuve que le matériel était correct avant de l'envoyer. Pour ce qui est des événements météorologiques, il faut savoir protéger les pièces de <br>
-l'exposition, comme Jade nous l'as expliqué, il est possible qu'il pleuve très forts certains jours alors si c'est une exposition extrérieure il faut protéger <br>
+<p align=center>Ce que Jade nous a expliqué au niveau des défis qu'ils ont dû surmonter sont souvemt dû aux environnements, tel que la chaleur du désert ou bien
+encore les tempêtes de pluie ou même de sable. Le transport était également un grand facteur à garder en compte, puisqu'il fallait qu'ils prévoient
+les choses qu'ils allaient avoir besoin, le matériel supplémentaire si il y en avait. Ils devaient également remplir des fiches afin de laisser savoir
+ce qu'il y allait avoir dans le colis aux gens qui allaient le recevoir, sans quoi, ils pouvaient être blamé d'avoir oublié certaines composantes.
+Si le matériel venait à être endommagé pendant le trajet, ils pouvaient également prendre le blâme, c'est pourquoi ils doivent toujours prendre une
+photo des composantes avant de les envoyer, c'est un moyen de se défendre contre les accusations si jamais une des composantes est cassés à l'arrivée, ils
+ont donc une preuve que le matériel était correct avant de l'envoyer. Pour ce qui est des événements météorologiques, il faut savoir protéger les pièces de
+l'exposition, comme Jade nous l'as expliqué, il est possible qu'il pleuve très forts certains jours alors si c'est une exposition extrérieure il faut protéger
 les pièces électronique sans quoi elle cesseront de fonctionner.</p>
