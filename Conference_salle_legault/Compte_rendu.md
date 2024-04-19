@@ -2,7 +2,7 @@
 Afin de mieux connaître les enjeux vers lesquels notre technique porte, nous avons assister à une conférence sur les détails du métier d'être registraire, présentée par Jade Séguela, qui travaille présentement pour <br> le studio Antimodular, dirigé par l'artiste Rafael Lozano-Hemmer.
 <br>
 <h2>Sur quoi portait-t'elle ?</h2>
-La conférence portait sur les défis à relever et la pertinence que ce travail pouvait avoir, tel que les défis environnementaux <br> ou encore les défis de transports
+La conférence portait sur les défis à relever et la pertinence que ce travail pouvait avoir pour nous, tel que les défis environnementaux <br> ou encore les défis de transports
 que ces travailleurs pouvaient avoir, ainsi que connaître à quel point une oeuvre pourrait plaire à un publique <br> et savoir l'adapter à de nouveaux lieux d'expositions
 
 <h2>les défis</h2>
@@ -24,3 +24,7 @@ initialement acheté n'avaient pas été testé au préalable et n'étaient pas 
 de l'entretient à faire pour garder un fonctionnement approprié du site. par exemple, pour "translation island", des oiseaux avaient commencé à faire des nids près de certaines
 composantes, ou bien des insectes se glissait dans les boitiers où étaient les caméras et venaient bloquer la projection, où faire une énorme ombre d'eux même. 
 L'équipe devait alors monter là où se trouvait le boitier afin de retirer le ou les insectes qui s'y logait.</p>
+
+<h2>Qu'est-ce que tout cela signifie?</h2>
+Pour résumer, pratiquer ce métier requiert une grande capacité à collaborer avec ses collègues pour pouvoir effectuer les tâches qui sont requises, une personnes qui n'est pas
+collaborative ne se débrouillera pas bien dans un domaine tel que celui présenté par Mme.Séguela.
