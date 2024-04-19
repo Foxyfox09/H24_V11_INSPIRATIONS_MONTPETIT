@@ -15,3 +15,12 @@ photo des composantes avant de les envoyer, c'est un moyen de se défendre contr
 ont donc une preuve que le matériel était correct avant de l'envoyer. Pour ce qui est des événements météorologiques, il faut savoir protéger les pièces de
 l'exposition, comme Jade nous l'as expliqué, il est possible qu'il pleuve très forts certains jours alors si c'est une exposition extrérieure il faut protéger
 les pièces électronique sans quoi elle cesseront de fonctionner.</p>
+
+<h2>La créativité et l'entretient</h2>
+<p>Dû à tout ces défis, ils ont dû faire preuve de créativité afin de trouver des solutions pour remédier à ces problèmes. Ils vont donc devoir improviser
+certains aspects de leur expositions pour être capable de les réaliser dans le temps prévu. Les exemples donnés par Jade sont notamment qu'ils avaient dû 
+aller acheter des sacs ziploc afin de recouvrir les boîtiers contenant les caméras et autres dispositifs électroniques car les boîtiers étanches qu'ils avaient
+initialement acheté n'avaient pas été testé au préalable et n'étaient pas réellement étanche. En plus de cela, dépendamment de la durée de l'exposition il y aura
+de l'entretient à faire pour garder un fonctionnement approprié du site. par exemple, pour "translation island", des oiseaux avaient commencé à faire des nids près de certaines
+composantes, ou bien des insectes se glissait dans les boitiers où étaient les caméras et venaient bloquer la projection, où faire une énorme ombre d'eux même. 
+L'équipe devait alors monter là où se trouvait le boitier afin de retirer le ou les insectes qui s'y logait.</p>
