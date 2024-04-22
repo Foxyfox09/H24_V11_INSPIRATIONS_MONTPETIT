@@ -27,4 +27,6 @@ L'équipe devait alors monter là où se trouvait le boitier afin de retirer le 
 
 <h2>Qu'est-ce que tout cela signifie?</h2>
 Pour résumer, pratiquer ce métier requiert une grande capacité à collaborer avec ses collègues pour pouvoir effectuer les tâches qui sont requises, une personnes qui n'est pas
-collaborative ne se débrouillera pas bien dans un domaine tel que celui présenté par Mme.Séguela.
+collaborative ne se débrouillera pas bien dans un domaine tel que celui présenté par Mme.Séguela. Ensemble ils doivent avoir une bonne communication, une bonne efficacité d'équipe
+et également une facilité avec certains domaines multimédias tels que le coding, la capacité à jumeler ceux-ci et dépendament de l'oeuvre que l'on veut créer on aura besoin de 
+connaissance en photo, montage photo et vidéo, modélisation et animation 2D et 3D et bien d'autres. 
