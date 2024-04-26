@@ -5,7 +5,7 @@
 <p>Cette oeuvre permanente exposée au centre des sciences de Montréal met en oeuvre le spectateur qui fais face à trois panneaux qui vont renvoyer une image en direct de celui-ci. Une d'entre elle qui sera inchangée, une autre sera
 en ultraviolets et une en infrarouge. Désigné à la contemplation, elle permet aux visiteurs de s'admirer sous différents effets de lumières simultanément.</p>
 <br>
-<img text-align="center" width="50%" src="https://github.com/Foxyfox09/H24_V11_INSPIRATIONS_MONTPETIT/blob/main/centre_des_sciences/medias/3_ecrans.png?raw=true">
+<img margin="auto" width="50%" src="https://github.com/Foxyfox09/H24_V11_INSPIRATIONS_MONTPETIT/blob/main/centre_des_sciences/medias/3_ecrans.png?raw=true">
 <br>
 <h2>Technologies et disposition</h2>
 <h3>Plan du dispositif</h3>
