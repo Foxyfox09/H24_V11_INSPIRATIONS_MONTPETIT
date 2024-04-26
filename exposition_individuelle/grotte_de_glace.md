@@ -1,6 +1,6 @@
 <h1>Grotte de glace (2022)</h1>
 <h2>Introduction</h2>
-<p>la grotte de glace, créé par Kelly Nunes, est une exposition présentée dans la plus grande exposition dénommée "Age of Union" créé par Dax Dasilva en octobre 2021 qui lutte pour des causes écologiques sur la planète. Cette exposition ce situant à Montréal contient à la fois des films, des expériences 
+<p>la grotte de glace, créé par Kelly Nunes, est une exposition présentée dans une plus grande exposition dénommée "Age of Union" créé par Dax Dasilva en octobre 2021 qui lutte pour des causes écologiques sur la planète. Cette exposition ce situant à Montréal contient à la fois des films, des expériences 
 immersives, des ateliers et des conférences tous en lien avec la nature. Le site fait deux étages et mesure 12 000 pieds carrés, une salle de projection, des installations immersives permanentes, un espace événementiel multifonctionnel et un espace extérieur doté 
 d'un jardin et d'une piscine. Ce lieu encourage à s'instruire sur la biodiversité. La grotte reproduit l'ambiance d'un glacier à la fois grâce à des sons mais aussi grâce à la température et le visuel.</p>
 <br>
