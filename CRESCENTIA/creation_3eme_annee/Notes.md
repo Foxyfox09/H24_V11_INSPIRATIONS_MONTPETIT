@@ -12,7 +12,7 @@ de la croissance. Rhizomatique est un dispositif qui affiche différentes images
 sa main sur la toile face à lui. Si sa main se trouve plus à droite, elle affichera les photos/vidéos sur le mur de droite, alors que si la main 
 se trouve plus à gauche, les photos se verront alors sur le mur de gauche.</p>
 <h3>Plan de l'oeuvre </h3>
-<img src="(https://github.com/Foxyfox09/H24_V11_INSPIRATIONS_MONTPETIT/blob/main/CRESCENTIA/medias/rhizomatique_plantation.png?raw=true)"> <br>
+<img src="https://github.com/Foxyfox09/H24_V11_INSPIRATIONS_MONTPETIT/blob/main/CRESCENTIA/medias/rhizomatique_plantation.png?raw=true"> <br>
 Photo provenant de la page de l'exposition de Crescentia.* <br>
 <p>Lors de ma première visite, le site n'était pas vraiment développer et je ne savais pas vraiment à quoi ça allait ressembler,
 excepté pour ce qui est des projecteurs et la kinect.</p> <br>
