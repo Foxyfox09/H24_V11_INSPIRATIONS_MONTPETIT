@@ -6,4 +6,4 @@ d'un jardin et d'une piscine. Ce lieu encourage à s'instruire sur la biodiversi
 <br>
 <img width="85%" src="https://github.com/Foxyfox09/H24_V11_INSPIRATIONS_MONTPETIT/blob/main/exposition_individuelle/medias/Panneau_entr%C3%A9e_caverne_glace.png?raw=true">
 
-https://www.youtube.com/watch?v=h9X7k-KMyJE
+[![][(https://markdown-videos-api.jorgenkh.no/youtube/{video_id})](https://youtu.be/{video_id}](https://youtu.be/h9X7k-KMyJE?si=RVVCusKB51LLYPDo))
