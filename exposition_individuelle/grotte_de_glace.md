@@ -16,7 +16,7 @@ expositions du même lieu.</p>
 <h2>Matériel</h2>
 <p>Le matériel requis pour créer cette exposition est essentiellement constitué de:
 <br> - plastique <br>
-  <img width="30%" src="">
+  <img width="30%" src="https://github.com/Foxyfox09/H24_V11_INSPIRATIONS_MONTPETIT/blob/main/exposition_individuelle/medias/glacier_plastique.jpg?raw=true">
 <br> - Dispositif d'air conditionné <br>
   <img width="30%" src="https://github.com/Foxyfox09/H24_V11_INSPIRATIONS_MONTPETIT/blob/main/exposition_individuelle/medias/plafond_caverne_sombre_02.png?raw=true](https://github.com/Foxyfox09/H24_V11_INSPIRATIONS_MONTPETIT/blob/main/exposition_individuelle/medias/rondelle_noire_caverne_02.png?raw=true">
 <br> - lumières <br>
