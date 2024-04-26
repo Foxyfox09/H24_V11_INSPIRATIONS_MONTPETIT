@@ -66,10 +66,10 @@ Projet réalisé par Érick Ouellette, William Rathier Mailly, Gabriel Clerval, 
 <img src="https://github.com/Foxyfox09/H24_V11_INSPIRATIONS_MONTPETIT/blob/main/CRESCENTIA/medias/Kigo_cartographie.png?raw=true"> <br>
 <p>Durant ma première visite, Kigo ne fonctionnait pas pleinement, le personnage en trois dimensions ne suivait pas parfaitement nos mouvements et
 le logiciel comportait quelques bug</p> <br>
-<img src="https://github.com/Foxyfox09/H24_V11_INSPIRATIONS_MONTPETIT/blob/main/CRESCENTIA/medias/NF-Kinect-Kigo.png?raw=true">
+<img width="50%" src="https://github.com/Foxyfox09/H24_V11_INSPIRATIONS_MONTPETIT/blob/main/CRESCENTIA/medias/NF-Kinect-Kigo.png?raw=true">
 <h3>Kigo lors de notre deuxième visite</h3>
-<img src="https://github.com/Foxyfox09/H24_V11_INSPIRATIONS_MONTPETIT/blob/main/CRESCENTIA/medias/Kigo-bandes-sol.png?raw=true">
-<img src="https://github.com/Foxyfox09/H24_V11_INSPIRATIONS_MONTPETIT/blob/main/CRESCENTIA/medias/Kigo-%C3%A9cran-jeu.png?raw=true">
+<img width="50%" src="https://github.com/Foxyfox09/H24_V11_INSPIRATIONS_MONTPETIT/blob/main/CRESCENTIA/medias/Kigo-bandes-sol.png?raw=true">
+<img width="50%" src="https://github.com/Foxyfox09/H24_V11_INSPIRATIONS_MONTPETIT/blob/main/CRESCENTIA/medias/Kigo-%C3%A9cran-jeu.png?raw=true">
 <h3>Mon ressenti</h3>
 <p>J'ai adoré l'interactivité qu'avait cette exposition, l'entièreté de l'exposition était basée sur e spectateur et offrait une grande liberté de 
 mouvements à effectuer afin d'éviter les obstacles qui apparaissait devant nous. Cette oeuvre avait un aspect qui ressemblait beaucoup à un jeu vidéo et
@@ -85,14 +85,14 @@ prend de l'ampleur et grandi en rapprot avec le nombre de planètes en collision
 <img src="https://github.com/Foxyfox09/H24_V11_INSPIRATIONS_MONTPETIT/blob/main/CRESCENTIA/medias/Canevas_cosmique_cartographie.png?raw=true"> <br>
 <p>Lors de notre première visite, Canevas Cosmique fonctionnait déjà plutôt bien, mais il manquait les planètes en 3D qui étaient remplacées par de simples 
 codes QR.</p> <br>
-<img src="https://github.com/Foxyfox09/H24_V11_INSPIRATIONS_MONTPETIT/blob/main/CRESCENTIA/medias/NF-canevas-table&papier.png?raw=true">
-<img src="https://github.com/Foxyfox09/H24_V11_INSPIRATIONS_MONTPETIT/blob/main/CRESCENTIA/medias/NF-mur-canevas.png?raw=true">
-<img src="https://github.com/Foxyfox09/H24_V11_INSPIRATIONS_MONTPETIT/blob/main/CRESCENTIA/medias/NF_Canevas_cosmique_table.png?raw=true">
-<img src="https://github.com/Foxyfox09/H24_V11_INSPIRATIONS_MONTPETIT/blob/main/CRESCENTIA/medias/canevas-cosmique-mise-en-place.png?raw=true">
+<img width="50%" src="https://github.com/Foxyfox09/H24_V11_INSPIRATIONS_MONTPETIT/blob/main/CRESCENTIA/medias/NF-canevas-table&papier.png?raw=true">
+<img width="50%" src="https://github.com/Foxyfox09/H24_V11_INSPIRATIONS_MONTPETIT/blob/main/CRESCENTIA/medias/NF-mur-canevas.png?raw=true">
+<img width="50%" src="https://github.com/Foxyfox09/H24_V11_INSPIRATIONS_MONTPETIT/blob/main/CRESCENTIA/medias/NF_Canevas_cosmique_table.png?raw=true">
+<img width="50%" src="https://github.com/Foxyfox09/H24_V11_INSPIRATIONS_MONTPETIT/blob/main/CRESCENTIA/medias/canevas-cosmique-mise-en-place.png?raw=true">
 <h3>Canevas Cosmique lors de notre deuxième visite</h3>
-<img src="https://github.com/Foxyfox09/H24_V11_INSPIRATIONS_MONTPETIT/blob/main/CRESCENTIA/medias/plan%C3%A8tes-canevas-cosmique02.png?raw=true">
-<img src="https://github.com/Foxyfox09/H24_V11_INSPIRATIONS_MONTPETIT/blob/main/CRESCENTIA/medias/dessous-plan%C3%A8tes-canevas.png?raw=true">
-<img src="https://github.com/Foxyfox09/H24_V11_INSPIRATIONS_MONTPETIT/blob/main/CRESCENTIA/medias/plan%C3%A8tes-canevas-cosmique.png?raw=true">
+<img width="50%" src="https://github.com/Foxyfox09/H24_V11_INSPIRATIONS_MONTPETIT/blob/main/CRESCENTIA/medias/plan%C3%A8tes-canevas-cosmique02.png?raw=true">
+<img width="50%" src="https://github.com/Foxyfox09/H24_V11_INSPIRATIONS_MONTPETIT/blob/main/CRESCENTIA/medias/dessous-plan%C3%A8tes-canevas.png?raw=true">
+<img width="50%" src="https://github.com/Foxyfox09/H24_V11_INSPIRATIONS_MONTPETIT/blob/main/CRESCENTIA/medias/plan%C3%A8tes-canevas-cosmique.png?raw=true">
 <h3>Mon ressenti</h3>
 <p>Canevas Cosmique était une très belle expérience visuelle, mais au premier regard il semble peu complexe, très simpliste, c'est seulement lorsqu'on 
 parle aux personnes qui l'ont construit qu'on comprend qu'il est en fait beaucoup plus complexe qu'il ne paraît. Le nombre de possibilités de combinaisons est absolument astronomique, c'est le cas de le dire.</p>
