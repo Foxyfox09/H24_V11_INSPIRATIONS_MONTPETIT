@@ -19,7 +19,7 @@ excepté pour ce qui est des projecteurs et la kinect.</p> <br>
 <img src="https://github.com/Foxyfox09/H24_V11_INSPIRATIONS_MONTPETIT/blob/main/CRESCENTIA/medias/mise-en-place-rizomathique.png?raw=true">
 <p>Les membres de Rhizomatique ont utilisés un projecteur afin d'afficher leurs images sur les murs, Ceci était leur disposition de leur matériel</p>
 <h3>Rhizomathique lors de notre deuxième visite</h3>
-<img src="https://github.com/Foxyfox09/H24_V11_INSPIRATIONS_MONTPETIT/blob/main/CRESCENTIA/medias/rhizomatique-toile.png?raw=true">
+<img width="50%" src="https://github.com/Foxyfox09/H24_V11_INSPIRATIONS_MONTPETIT/blob/main/CRESCENTIA/medias/rhizomatique-toile.png?raw=true">
 <img src="https://github.com/Foxyfox09/H24_V11_INSPIRATIONS_MONTPETIT/blob/main/CRESCENTIA/medias/rizomatique-effet-mur.png?raw=true">
 <img src="https://github.com/Foxyfox09/H24_V11_INSPIRATIONS_MONTPETIT/blob/main/CRESCENTIA/medias/mur-rizomathique02.png?raw=true">
 <img src="https://github.com/Foxyfox09/H24_V11_INSPIRATIONS_MONTPETIT/blob/main/CRESCENTIA/medias/Rizomathique-main.png?raw=true">
