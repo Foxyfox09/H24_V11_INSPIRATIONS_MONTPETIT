@@ -75,14 +75,14 @@ le logiciel comportait quelques bug</p> <br>
 mouvements à effectuer afin d'éviter les obstacles qui apparaissait devant nous. Cette oeuvre avait un aspect qui ressemblait beaucoup à un jeu vidéo et
 n'avait pas de misère à attirer les visiteurs.</p>
 
-<h2>Canevas Cosmique/h2>
+<h2>Canevas Cosmique</h2>
 Projet réalisé par Jacob Alarie-Brousseau, Étienne Charron, Jérémy Cholette, Quoc Huy Do, Mikaël Tourangeau<br>
 <br>
 <h3>Descrption de l'oeuvre</h3>
 <p>"Canevas Cosmique" s'inscrit dans le thème "Crescentia" puisqu'il présente un univers doté d'un soleil qui lorsque les planètes sont jumelées à celui-ci, 
 prend de l'ampleur et grandi en rapprot avec le nombre de planètes en collision.</p>
 <h3>Plan de l'oeuvre </h3>
-<img src=""> <br>
+<img src="https://github.com/Foxyfox09/H24_V11_INSPIRATIONS_MONTPETIT/blob/main/CRESCENTIA/medias/Canevas_cosmique_cartographie.png?raw=true"> <br>
 <p>Lors de notre première visite, Canevas Cosmique fonctionnait déjà plutôt bien, mais il manquait les planètes en 3D qui étaient remplacées par de simples 
 codes QR.</p> <br>
 <img src="https://github.com/Foxyfox09/H24_V11_INSPIRATIONS_MONTPETIT/blob/main/CRESCENTIA/medias/NF-canevas-table&papier.png?raw=true">
