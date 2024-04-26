@@ -15,9 +15,12 @@ expositions du même lieu.</p>
 <img width="85%" src="https://github.com/Foxyfox09/H24_V11_INSPIRATIONS_MONTPETIT/blob/main/exposition_individuelle/medias/plafond_caverne_sombre.png?raw=true">
 <h2>Matériel</h2>
 <p>Le matériel requis pour créer cette exposition est essentiellement constitué de:
-<br> - plastique
-<br> - Dispositif d'air conditionné
-<br> - lumières
+<br> - plastique <br>
+  <img width="30%" src="">
+<br> - Dispositif d'air conditionné <br>
+  <img width="30%" src="https://github.com/Foxyfox09/H24_V11_INSPIRATIONS_MONTPETIT/blob/main/exposition_individuelle/medias/plafond_caverne_sombre_02.png?raw=true](https://github.com/Foxyfox09/H24_V11_INSPIRATIONS_MONTPETIT/blob/main/exposition_individuelle/medias/rondelle_noire_caverne_02.png?raw=true">
+<br> - lumières <br>
+  <img width="30%" src="https://github.com/Foxyfox09/H24_V11_INSPIRATIONS_MONTPETIT/blob/main/exposition_individuelle/medias/plafond_caverne_illumin%C3%A9.png?raw=true">
 <br> - Haut-parleurs (speakers)
 </p>
 
