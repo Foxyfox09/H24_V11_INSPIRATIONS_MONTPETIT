@@ -97,4 +97,18 @@ codes QR.</p> <br>
 <p>Canevas Cosmique était une très belle expérience visuelle, mais au premier regard il semble peu complexe, très simpliste, c'est seulement lorsqu'on 
 parle aux personnes qui l'ont construit qu'on comprend qu'il est en fait beaucoup plus complexe qu'il ne paraît. Le nombre de possibilités de combinaisons est absolument astronomique, c'est le cas de le dire.</p>
 
+<h2>Mon classement</h2>
+<h3>dernière position</h3>
+<p>Canevas Cosmique: Malgré que le rendu final était impressionant, je trouve que les gens se lassaient rapidement, pensant que ce n'est qu'une sorte de jeux pour enfant, on teste quelques combinaisons puis on passe à autre chose assez rapidement.</p>
+<h3>4ème position</h3>
+<p>Effet Papillon: L'ambiance à l'intérieur était très agréable mais il y avait tellement de choses qui se produisait en même temps que j'avais l'impression de perdre le fil, malgré la beauté de la chose je pense ne pas avoir pu pleinement profiter de l'expérience.</p>
+<h3>3ème position</h3>
+<p>Rhizomatique: J'ai été grandement surpris lorsque j'ai vu l'exposition lors de notre deuxième visite qui avait grandement évolué par rapport à ma première visite, la texture de la toile m'a également bien surpris, j'ai aimé les images sur le mur qui se déplacaient avec notre 
+main, c'était très fluide.</p>
+<h3>Deuxieme position</h3>
+<p>Kigo: J'ai adoré l'intéractivité que kigo avait avec les visiteurs, sans les visiteurs l'exposition n'était rien. Le fait que ce soit une sorte de jeu donnait également envie de rester et de toujours rejouer afin d'essayer de battre notre score précédent ou encore le score 
+le plus élevé.</p>
+<h3>première position</h3>
+<p>Sonalux: C'est l'exposition dans laquelle je suis resté le plus longtemps lors de notre deuxième visite, Vincent que je connaissais depuis longtemps a pu m'expliquer l'entièreté du projet dans les plus grands détails, il y avait une sorte de logiciel qui reliait toutes les composantes 
+entre elles. Le fait que les ondes sur les murs bougaient en même temps que les sons créé par l'utilisateur et également la couleur de ses ondes me fascine, j'ai une grande admiration pour la quantitée de travail et les détails que j'ai eu sur le projet en font mon préféré.</p>
 
