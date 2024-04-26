@@ -1,4 +1,5 @@
 <h2>Sonalux</h2>
+<img src="https://github.com/Foxyfox09/H24_V11_INSPIRATIONS_MONTPETIT/blob/main/CRESCENTIA/medias/sonalux_logo.png?raw=true">
 Projet réalisé par Antoine Haddad, Camélie Laprise, Ghita Alaoui, Vincent Desjardins <br>
 <br>
 <h3>Descrption de l'oeuvre</h3>
