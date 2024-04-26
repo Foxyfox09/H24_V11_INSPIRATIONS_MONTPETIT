@@ -20,9 +20,9 @@ excepté pour ce qui est des projecteurs et la kinect.</p> <br>
 <p>Les membres de Rhizomatique ont utilisés un projecteur afin d'afficher leurs images sur les murs, Ceci était leur disposition de leur matériel</p>
 <h3>Rhizomathique lors de notre deuxième visite</h3>
 <img width="50%" src="https://github.com/Foxyfox09/H24_V11_INSPIRATIONS_MONTPETIT/blob/main/CRESCENTIA/medias/rhizomatique-toile.png?raw=true">
-<img src="https://github.com/Foxyfox09/H24_V11_INSPIRATIONS_MONTPETIT/blob/main/CRESCENTIA/medias/rizomatique-effet-mur.png?raw=true">
-<img src="https://github.com/Foxyfox09/H24_V11_INSPIRATIONS_MONTPETIT/blob/main/CRESCENTIA/medias/mur-rizomathique02.png?raw=true">
-<img src="https://github.com/Foxyfox09/H24_V11_INSPIRATIONS_MONTPETIT/blob/main/CRESCENTIA/medias/Rizomathique-main.png?raw=true">
+<img width="50%" src="https://github.com/Foxyfox09/H24_V11_INSPIRATIONS_MONTPETIT/blob/main/CRESCENTIA/medias/rizomatique-effet-mur.png?raw=true">
+<img width="50%" src="https://github.com/Foxyfox09/H24_V11_INSPIRATIONS_MONTPETIT/blob/main/CRESCENTIA/medias/mur-rizomathique02.png?raw=true">
+<img width="50%" src="https://github.com/Foxyfox09/H24_V11_INSPIRATIONS_MONTPETIT/blob/main/CRESCENTIA/medias/Rizomathique-main.png?raw=true">
 Dorénavant, le projet est bien plus clair qu'il ne l'était lors de notre première visite, lorsque l'on place notre main sur la toile, 
 celle-ci y réagit grâce à une kinect qui est ce trouve en dessous, et va ensuite permetre au projecteur d'afficher l'image sur le bon mur.
 <h3>Mon ressenti</h3>
@@ -43,16 +43,16 @@ y sont effectués.</p>
 dispositif de technologie doté notamment de petits écrans, de speakers ainsi que des raspberry pie. Aux murs étaient affichés des images, qui
 n'avaient pas de lien nécessairement avec le sujet principal de l'oeuvre, mais permettait de nous donner une idée d'à quoi allait avoir l'air le 
 dispositif final.</p> <br>
-<img src="https://github.com/Foxyfox09/H24_V11_INSPIRATIONS_MONTPETIT/blob/main/CRESCENTIA/medias/NF-plafond-papillon02.png?raw=true">
-<img src="https://github.com/Foxyfox09/H24_V11_INSPIRATIONS_MONTPETIT/blob/main/CRESCENTIA/medias/NF-tronc-arbre.png?raw=true">
-<img src="https://github.com/Foxyfox09/H24_V11_INSPIRATIONS_MONTPETIT/blob/main/CRESCENTIA/medias/NF-manivelle-papillon.png?raw=true">
-<img src="https://github.com/Foxyfox09/H24_V11_INSPIRATIONS_MONTPETIT/blob/main/CRESCENTIA/medias/mise-en-place-effet-papillon.png?raw=true">
+<img width="50%" src="https://github.com/Foxyfox09/H24_V11_INSPIRATIONS_MONTPETIT/blob/main/CRESCENTIA/medias/NF-plafond-papillon02.png?raw=true">
+<img width="50%" src="https://github.com/Foxyfox09/H24_V11_INSPIRATIONS_MONTPETIT/blob/main/CRESCENTIA/medias/NF-tronc-arbre.png?raw=true">
+<img width="50%" src="https://github.com/Foxyfox09/H24_V11_INSPIRATIONS_MONTPETIT/blob/main/CRESCENTIA/medias/NF-manivelle-papillon.png?raw=true">
+<img width="50%" src="https://github.com/Foxyfox09/H24_V11_INSPIRATIONS_MONTPETIT/blob/main/CRESCENTIA/medias/mise-en-place-effet-papillon.png?raw=true">
 <h3>Effet papillon lors de notre deuxième visite</h3>
-<img src="https://github.com/Foxyfox09/H24_V11_INSPIRATIONS_MONTPETIT/blob/main/CRESCENTIA/medias/Lumi%C3%A8res-finales-papillon-effet.png?raw=true">
-<img src="https://github.com/Foxyfox09/H24_V11_INSPIRATIONS_MONTPETIT/blob/main/CRESCENTIA/medias/plafond-papillon.png?raw=true">
-<img src="https://github.com/Foxyfox09/H24_V11_INSPIRATIONS_MONTPETIT/blob/main/CRESCENTIA/medias/tronc-arbre-papillon.png?raw=true">
-<img src="https://github.com/Foxyfox09/H24_V11_INSPIRATIONS_MONTPETIT/blob/main/CRESCENTIA/medias/%C3%89cran-effet-papillon-arbre.png?raw=true">
-<img src="https://github.com/Foxyfox09/H24_V11_INSPIRATIONS_MONTPETIT/blob/main/CRESCENTIA/medias/manivelle-papillon.png?raw=true">
+<img width="50%" src="https://github.com/Foxyfox09/H24_V11_INSPIRATIONS_MONTPETIT/blob/main/CRESCENTIA/medias/Lumi%C3%A8res-finales-papillon-effet.png?raw=true">
+<img width="50%" src="https://github.com/Foxyfox09/H24_V11_INSPIRATIONS_MONTPETIT/blob/main/CRESCENTIA/medias/plafond-papillon.png?raw=true">
+<img width="50%" src="https://github.com/Foxyfox09/H24_V11_INSPIRATIONS_MONTPETIT/blob/main/CRESCENTIA/medias/tronc-arbre-papillon.png?raw=true">
+<img width="50%" src="https://github.com/Foxyfox09/H24_V11_INSPIRATIONS_MONTPETIT/blob/main/CRESCENTIA/medias/%C3%89cran-effet-papillon-arbre.png?raw=true">
+<img width="50%" src="https://github.com/Foxyfox09/H24_V11_INSPIRATIONS_MONTPETIT/blob/main/CRESCENTIA/medias/manivelle-papillon.png?raw=true">
 <h3>Mon ressenti</h3>
 <p>J'ai bien aimé cette présenation mais elle était très dispercé, il y avait des choses qui se produisaient partout mais j'ai tout de même apprécié
 que le projet était très développé.</p>
