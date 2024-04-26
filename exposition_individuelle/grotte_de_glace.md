@@ -15,10 +15,10 @@ expositions du même lieu.</p>
 <img width="85%" src="https://github.com/Foxyfox09/H24_V11_INSPIRATIONS_MONTPETIT/blob/main/exposition_individuelle/medias/plafond_caverne_sombre.png?raw=true">
 <h2>Matériel</h2>
 <p>Le matériel requis pour créer cette exposition est essentiellement constitué de:
-- plastique
-- Dispositif d'air conditionné
-- lumières
-- Haut-parleurs (speakers)
+<br> - plastique
+<br> - Dispositif d'air conditionné
+<br> - lumières
+<br> - Haut-parleurs (speakers)
 </p>
 
 https://youtu.be/6Beu2dfBMvQ
