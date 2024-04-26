@@ -5,7 +5,7 @@
 <p>Cette oeuvre permanente exposée au centre des sciences de Montréal met en oeuvre le spectateur qui fais face à trois panneaux qui vont renvoyer une image en direct de celui-ci. Une d'entre elle qui sera inchangée, une autre sera
 en ultraviolets et une en infrarouge. Désigné à la contemplation, elle permet aux visiteurs de s'admirer sous différents effets de lumières simultanément.</p>
 <br>
-<img margin="auto" width="50%" src="https://github.com/Foxyfox09/H24_V11_INSPIRATIONS_MONTPETIT/blob/main/centre_des_sciences/medias/3_ecrans.png?raw=true">
+<img width="50%" src="https://github.com/Foxyfox09/H24_V11_INSPIRATIONS_MONTPETIT/blob/main/centre_des_sciences/medias/3_ecrans.png?raw=true">
 <br>
 <h2>Technologies et disposition</h2>
 <h3>Plan du dispositif</h3>
@@ -19,3 +19,10 @@ les trois panneaux, ainsi que leurs composantes internes, une caméra permettant
 <img width="50%" src="https://github.com/Foxyfox09/H24_V11_INSPIRATIONS_MONTPETIT/blob/main/centre_des_sciences/medias/ecran_normal.png?raw=true">
 <img width="50%" src="https://github.com/Foxyfox09/H24_V11_INSPIRATIONS_MONTPETIT/blob/main/centre_des_sciences/medias/vue_camera_02.png?raw=true">
 <img width="50%" src="https://github.com/Foxyfox09/H24_V11_INSPIRATIONS_MONTPETIT/blob/main/centre_des_sciences/medias/Lumieres_violettes.png?raw=true">
+<h3>Le visiteur</h3>
+<p>Lors de sa visite le visiteur sera amené à prendre différentes postures afin de s'admirer dans ces différents écrans qui se trouvent devant lui. Personnelement j'ai apprécié ce dispositif multimédia car je cherchais à comprendre 
+comment les écrans faisaient pour afficher trois sortes de lumières différentes à la fois, et en même temps ça me permettait de pouvoir admirer mon style vestimentaire sous plusieurs angles en même temps..</p>
+<br>
+<br>
+<h3>Références</h3>
+https://www.centredessciencesdemontreal.com/
