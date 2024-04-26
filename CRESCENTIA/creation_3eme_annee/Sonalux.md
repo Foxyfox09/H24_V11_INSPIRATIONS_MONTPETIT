@@ -25,7 +25,10 @@ se trouve plus à gauche, les photos se verront alors sur le mur de gauche.</p>
 <h4>Logiciels</h4>
 <img src="https://github.com/Foxyfox09/H24_V11_INSPIRATIONS_MONTPETIT/blob/main/CRESCENTIA/medias/sonalux-syst%C3%A8me02.png?raw=true">
 <p>Ceci est un logiciel permettant de jumeler tout le coding et les interfaces qui ont été créer pour cette exposition elle permait donc une meilleure visibilitée que si c'était un simple code, le logiciel permet un aspect visuel à la chose.</p>
-**Ce que j'en retiens**
+<br>
+<p>Afin de créer cette exposition, ça nécessite des connaissances en programmation, en design visuels 3D (pour créer les effets d'ondes sur les murs et également de bonnes connaissances dans l'audio, puisque ce projet est principalement axé
+sur cela.</p>
 <h3>Mon ressenti</h3>
-<p>J'ai trouvé l'idée très originale, mettre une toile que les gens peuvent toucher pour intéragire est définitivement une idée qui
-change de l'ordiniare, ça m'a surpris lorsque j'ai touché la toile, je ne m'attendais pas à cette texture là.</p>
+<p>J'ai grandement apprécié admirer cette oeuvre, je connais bien un des membres qui a aidé à le réaliser et il a pu vraiment m'expliquer en détail comment ils avaient fait pour réaliser l'entièreté du projet, comme par exemple qu'ils avaient dû apprendre un 
+nouveau language de coding (le python) par eux même pour pouvoir accomplir leur exposition. Il m'a montré qu'il y avait une quantitée phénoménales de possibilités de créations en utilisant les boutons et les niveaux de volumes, que ça venait modifier les couleurs
+des vagues aux murs, une quantitée de travail démesurée pour compléter tout ça, et m'a permis de réaliser la vraie ampleur que  cette exposition avait réellement.</p>
